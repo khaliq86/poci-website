@@ -68,6 +68,7 @@
             form.submit();
         });
     </script>
+    <script src="{{asset('js/script.js')}}"></script>
 </body>
 
 
